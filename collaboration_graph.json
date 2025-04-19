@@ -6,7 +6,8 @@
       "name": "Eamon D'Arcy",
       "nationality": "Australian",
       "gender": "Male",
-      "role": "Set Designer"
+      "role": "Set Designer",
+      "number_of_collaborators": 43
     },
     {
       "id": "contributor_1945",
@@ -14,7 +15,8 @@
       "name": "Ana Maria Belo",
       "nationality": "undefined",
       "gender": "Female",
-      "role": "Actor"
+      "role": "Actor",
+      "number_of_collaborators": 43
     },
     {
       "id": "contributor_6341",
@@ -22,7 +24,8 @@
       "name": "Rick Lau",
       "nationality": "Australian",
       "gender": "Male",
-      "role": "Chorus"
+      "role": "Chorus",
+      "number_of_collaborators": 43
     },
     {
       "id": "contributor_6342",
@@ -30,7 +33,8 @@
       "name": "David Atkins OAM",
       "nationality": "Australian",
       "gender": "Male",
-      "role": "Director"
+      "role": "Director",
+      "number_of_collaborators": 46
     },
     {
       "id": "contributor_6606",
@@ -38,7 +42,8 @@
       "name": "Mitchell Butel",
       "nationality": "Australian",
       "gender": "Male",
-      "role": "Actor"
+      "role": "Actor",
+      "number_of_collaborators": 43
     },
     {
       "id": "contributor_9205",
@@ -46,7 +51,8 @@
       "name": "Laurel Frank",
       "nationality": "Australian",
       "gender": "Female",
-      "role": "Costume Designer"
+      "role": "Costume Designer",
+      "number_of_collaborators": 43
     },
     {
       "id": "contributor_9291",
@@ -54,7 +60,8 @@
       "name": "Gavan Swift",
       "nationality": "Australian",
       "gender": "Male",
-      "role": "Lighting Designer"
+      "role": "Lighting Designer",
+      "number_of_collaborators": 74
     },
     {
       "id": "contributor_9357",
@@ -62,7 +69,8 @@
       "name": "Jason Coleman",
       "nationality": "Australian",
       "gender": "Male",
-      "role": "Choreographer"
+      "role": "Choreographer",
+      "number_of_collaborators": 43
     },
     {
       "id": "contributor_9366",
@@ -70,7 +78,8 @@
       "name": "Deborah Mitchelmore",
       "nationality": "Australian",
       "gender": "Female",
-      "role": "Assistant Director"
+      "role": "Assistant Director",
+      "number_of_collaborators": 43
     },
     {
       "id": "contributor_9582",
@@ -78,7 +87,8 @@
       "name": "Juan Jackson",
       "nationality": "Australian",
       "gender": "Male",
-      "role": "Actor"
+      "role": "Actor",
+      "number_of_collaborators": 43
     },
     {
       "id": "contributor_203486",
@@ -86,7 +96,8 @@
       "name": "Charlie Hull",
       "nationality": "undefined",
       "gender": "Male",
-      "role": "Musical Director"
+      "role": "Musical Director",
+      "number_of_collaborators": 43
     },
     {
       "id": "contributor_227714",
@@ -94,7 +105,8 @@
       "name": "Kane Alexander",
       "nationality": "Australian",
       "gender": "Male",
-      "role": "Actor"
+      "role": "Actor",
+      "number_of_collaborators": 43
     },
     {
       "id": "contributor_231085",
@@ -102,7 +114,8 @@
       "name": "Galt MacDermot",
       "nationality": "undefined",
       "gender": "Male",
-      "role": "Composer"
+      "role": "Composer",
+      "number_of_collaborators": 43
     },
     {
       "id": "contributor_231340",
@@ -110,7 +123,8 @@
       "name": "Lena Cruz",
       "nationality": "Australian",
       "gender": "Female",
-      "role": "Chorus"
+      "role": "Chorus",
+      "number_of_collaborators": 43
     },
     {
       "id": "contributor_232627",
@@ -118,7 +132,8 @@
       "name": "Gerome Ragni",
       "nationality": "American",
       "gender": "Male",
-      "role": "Lyricist"
+      "role": "Lyricist",
+      "number_of_collaborators": 43
     },
     {
       "id": "contributor_232629",
@@ -126,7 +141,8 @@
       "name": "James Rado",
       "nationality": "American",
       "gender": "Male",
-      "role": "Lyricist"
+      "role": "Lyricist",
+      "number_of_collaborators": 43
     },
     {
       "id": "contributor_234951",
@@ -134,7 +150,8 @@
       "name": "Kelley Abbey",
       "nationality": "Australian",
       "gender": "Female",
-      "role": "Actor"
+      "role": "Actor",
+      "number_of_collaborators": 214
     },
     {
       "id": "contributor_240493",
@@ -142,7 +159,8 @@
       "name": "John O'Hara",
       "nationality": "undefined",
       "gender": "Male",
-      "role": "Chorus"
+      "role": "Chorus",
+      "number_of_collaborators": 43
     },
     {
       "id": "contributor_240514",
@@ -150,7 +168,8 @@
       "name": "Julian Spink",
       "nationality": "Australian",
       "gender": "Male",
-      "role": "Sound Designer"
+      "role": "Sound Designer",
+      "number_of_collaborators": 91
     },
     {
       "id": "contributor_240565",
@@ -158,7 +177,8 @@
       "name": "Ken Mackenzie-Forbes",
       "nationality": "undefined",
       "gender": "Male",
-      "role": "Producer"
+      "role": "Producer",
+      "number_of_collaborators": 74
     },
     {
       "id": "contributor_242448",
@@ -166,7 +186,8 @@
       "name": "Matt Hetherington",
       "nationality": "Australian",
       "gender": "Male",
-      "role": "Actor"
+      "role": "Actor",
+      "number_of_collaborators": 43
     },
     {
       "id": "contributor_242449",
@@ -174,7 +195,8 @@
       "name": "Patrick Williams",
       "nationality": "West African / Australian",
       "gender": "Male",
-      "role": "Actor"
+      "role": "Actor",
+      "number_of_collaborators": 43
     },
     {
       "id": "contributor_243270",
@@ -182,7 +204,8 @@
       "name": "Cherine Peck",
       "nationality": "New Zealander",
       "gender": "Female",
-      "role": "Actor"
+      "role": "Actor",
+      "number_of_collaborators": 74
     },
     {
       "id": "contributor_247883",
@@ -190,7 +213,8 @@
       "name": "David Miller",
       "nationality": "Australian",
       "gender": "Male",
-      "role": "Technical Director"
+      "role": "Technical Director",
+      "number_of_collaborators": 134
     },
     {
       "id": "contributor_247884",
@@ -198,7 +222,8 @@
       "name": "Rachel D Taylor",
       "nationality": "Australian",
       "gender": "Female",
-      "role": "Executive Producer"
+      "role": "Executive Producer",
+      "number_of_collaborators": 43
     },
     {
       "id": "contributor_247885",
@@ -206,7 +231,8 @@
       "name": "Jeanne Pratt",
       "nationality": "undefined",
       "gender": "Female",
-      "role": "Producer"
+      "role": "Producer",
+      "number_of_collaborators": 43
     },
     {
       "id": "contributor_247886",
@@ -214,7 +240,8 @@
       "name": "John Hay-Mackenzie",
       "nationality": "undefined",
       "gender": "Male",
-      "role": "Producer"
+      "role": "Producer",
+      "number_of_collaborators": 43
     },
     {
       "id": "contributor_247887",
@@ -222,7 +249,8 @@
       "name": "Atalana Heale",
       "nationality": "Australian",
       "gender": "Female",
-      "role": "Actor"
+      "role": "Actor",
+      "number_of_collaborators": 43
     },
     {
       "id": "contributor_247888",
@@ -230,7 +258,8 @@
       "name": "Simon Hyland",
       "nationality": "Australian",
       "gender": "Male",
-      "role": "Actor"
+      "role": "Actor",
+      "number_of_collaborators": 43
     },
     {
       "id": "contributor_247889",
@@ -238,7 +267,8 @@
       "name": "Rebecca Jackson Mendoza",
       "nationality": "Australian",
       "gender": "Female",
-      "role": "Actor"
+      "role": "Actor",
+      "number_of_collaborators": 43
     },
     {
       "id": "contributor_247890",
@@ -246,7 +276,8 @@
       "name": "Amanda Davis",
       "nationality": "Australian",
       "gender": "Female",
-      "role": "Actor"
+      "role": "Actor",
+      "number_of_collaborators": 43
     },
     {
       "id": "contributor_247891",
@@ -254,7 +285,8 @@
       "name": "Karinda Matabazi",
       "nationality": "Australian",
       "gender": "Female",
-      "role": "Actor"
+      "role": "Actor",
+      "number_of_collaborators": 43
     },
     {
       "id": "contributor_247892",
@@ -262,7 +294,8 @@
       "name": "Kurt Kansley",
       "nationality": "Australian",
       "gender": "Male",
-      "role": "Actor"
+      "role": "Actor",
+      "number_of_collaborators": 91
     },
     {
       "id": "contributor_247893",
@@ -270,7 +303,8 @@
       "name": "Danielle Everett",
       "nationality": "Australian",
       "gender": "Female",
-      "role": "Chorus"
+      "role": "Chorus",
+      "number_of_collaborators": 43
     },
     {
       "id": "contributor_255918",
@@ -278,7 +312,8 @@
       "name": "Hollie Andrew",
       "nationality": "undefined",
       "gender": "Female",
-      "role": "Chorus"
+      "role": "Chorus",
+      "number_of_collaborators": 43
     },
     {
       "id": "contributor_255922",
@@ -286,7 +321,8 @@
       "name": "Frank Hansen",
       "nationality": "undefined",
       "gender": "Male",
-      "role": "Chorus"
+      "role": "Chorus",
+      "number_of_collaborators": 43
     },
     {
       "id": "contributor_257690",
@@ -294,7 +330,8 @@
       "name": "Andrew Koblar",
       "nationality": "Australian",
       "gender": "Male",
-      "role": "Chorus"
+      "role": "Chorus",
+      "number_of_collaborators": 43
     },
     {
       "id": "contributor_260137",
@@ -302,7 +339,8 @@
       "name": "Aaron Jackson Mendoza",
       "nationality": "undefined",
       "gender": "Male",
-      "role": "Chorus"
+      "role": "Chorus",
+      "number_of_collaborators": 43
     },
     {
       "id": "contributor_403573",
@@ -310,7 +348,8 @@
       "name": "Ben Mingay",
       "nationality": "undefined",
       "gender": "Male",
-      "role": "Chorus"
+      "role": "Chorus",
+      "number_of_collaborators": 43
     },
     {
       "id": "contributor_411630",
@@ -318,7 +357,8 @@
       "name": "Rebecca Verrier",
       "nationality": "undefined",
       "gender": "Female",
-      "role": "Chorus"
+      "role": "Chorus",
+      "number_of_collaborators": 43
     },
     {
       "id": "contributor_426788",
@@ -326,7 +366,8 @@
       "name": "Grant Durham",
       "nationality": "undefined",
       "gender": "Male",
-      "role": "Chorus"
+      "role": "Chorus",
+      "number_of_collaborators": 43
     },
     {
       "id": "contributor_446526",
@@ -334,7 +375,8 @@
       "name": "Leah Howard",
       "nationality": "Fijian-Australian",
       "gender": "Female",
-      "role": "Chorus"
+      "role": "Chorus",
+      "number_of_collaborators": 43
     },
     {
       "id": "contributor_462094",
@@ -342,7 +384,8 @@
       "name": "Katie McCarthy ",
       "nationality": "undefined",
       "gender": "Female",
-      "role": "Chorus"
+      "role": "Chorus",
+      "number_of_collaborators": 43
     },
     {
       "id": "contributor_466445",
@@ -350,7 +393,8 @@
       "name": "Tamara Jaber",
       "nationality": "undefined",
       "gender": "Female",
-      "role": "Chorus"
+      "role": "Chorus",
+      "number_of_collaborators": 43
     },
     {
       "id": "contributor_685",
@@ -358,7 +402,8 @@
       "name": "Michael Cormick",
       "nationality": "Australian",
       "gender": "Male",
-      "role": "Actor"
+      "role": "Actor",
+      "number_of_collaborators": 72
     },
     {
       "id": "contributor_948",
@@ -366,7 +411,8 @@
       "name": "John O'May",
       "nationality": "Australian",
       "gender": "Male",
-      "role": "Actor"
+      "role": "Actor",
+      "number_of_collaborators": 25
     },
     {
       "id": "contributor_1331",
@@ -374,7 +420,8 @@
       "name": "Paul Capsis",
       "nationality": "Australian",
       "gender": "Male",
-      "role": "Actor"
+      "role": "Actor",
+      "number_of_collaborators": 25
     },
     {
       "id": "contributor_1795",
@@ -382,7 +429,8 @@
       "name": "Gale Edwards AM",
       "nationality": "Australian",
       "gender": "Female",
-      "role": "Director"
+      "role": "Director",
+      "number_of_collaborators": 114
     },
     {
       "id": "contributor_8263",
@@ -390,7 +438,8 @@
       "name": "Nick Christo",
       "nationality": "undefined",
       "gender": "Male",
-      "role": "Director"
+      "role": "Director",
+      "number_of_collaborators": 25
     },
     {
       "id": "contributor_203221",
@@ -398,7 +447,8 @@
       "name": "Michelle Barr",
       "nationality": "undefined",
       "gender": "Female",
-      "role": "Actor"
+      "role": "Actor",
+      "number_of_collaborators": 57
     },
     {
       "id": "contributor_214160",
@@ -406,7 +456,8 @@
       "name": "Joe Masteroff",
       "nationality": "American",
       "gender": "Male",
-      "role": "Writer"
+      "role": "Writer",
+      "number_of_collaborators": 25
     },
     {
       "id": "contributor_214161",
@@ -414,7 +465,8 @@
       "name": "Fred Ebb",
       "nationality": "American",
       "gender": "Male",
-      "role": "Lyricist"
+      "role": "Lyricist",
+      "number_of_collaborators": 25
     },
     {
       "id": "contributor_214162",
@@ -422,7 +474,8 @@
       "name": "John Kander",
       "nationality": "American",
       "gender": "Male",
-      "role": "Composer"
+      "role": "Composer",
+      "number_of_collaborators": 25
     },
     {
       "id": "contributor_225431",
@@ -430,7 +483,8 @@
       "name": "Kate Fitzpatrick",
       "nationality": "Australian",
       "gender": "Female",
-      "role": "Actor"
+      "role": "Actor",
+      "number_of_collaborators": 25
     },
     {
       "id": "contributor_239233",
@@ -438,7 +492,8 @@
       "name": "Lindsay Partridge",
       "nationality": "Australian",
       "gender": "Male",
-      "role": "Musical Director"
+      "role": "Musical Director",
+      "number_of_collaborators": 25
     },
     {
       "id": "contributor_241704",
@@ -446,7 +501,8 @@
       "name": "David M Hawkins",
       "nationality": "undefined",
       "gender": "Male",
-      "role": "Producer"
+      "role": "Producer",
+      "number_of_collaborators": 25
     },
     {
       "id": "contributor_247697",
@@ -454,7 +510,8 @@
       "name": "Chelsea Renton-Gibb",
       "nationality": "Australian",
       "gender": "Female",
-      "role": "Actor"
+      "role": "Actor",
+      "number_of_collaborators": 25
     },
     {
       "id": "contributor_253156",
@@ -462,7 +519,8 @@
       "name": "Thern Reynolds",
       "nationality": "Australian",
       "gender": "Male",
-      "role": "Resident Director"
+      "role": "Resident Director",
+      "number_of_collaborators": 72
     },
     {
       "id": "contributor_257263",
@@ -470,7 +528,8 @@
       "name": "James Browne",
       "nationality": "undefined",
       "gender": "Male",
-      "role": "Designer"
+      "role": "Designer",
+      "number_of_collaborators": 25
     },
     {
       "id": "contributor_413168",
@@ -478,7 +537,8 @@
       "name": "Debora Krizak",
       "nationality": "undefined",
       "gender": "Female",
-      "role": "Actor"
+      "role": "Actor",
+      "number_of_collaborators": 25
     },
     {
       "id": "contributor_445219",
@@ -486,7 +546,8 @@
       "name": "Sam Hooper",
       "nationality": "Australian",
       "gender": "Male",
-      "role": "Actor"
+      "role": "Actor",
+      "number_of_collaborators": 80
     },
     {
       "id": "contributor_445945",
@@ -494,7 +555,8 @@
       "name": "Rob Sowinski",
       "nationality": "undefined",
       "gender": "Male",
-      "role": "Lighting Designer"
+      "role": "Lighting Designer",
+      "number_of_collaborators": 25
     },
     {
       "id": "contributor_464779",
@@ -502,7 +564,8 @@
       "name": "Jason Winston",
       "nationality": "undefined",
       "gender": "Male",
-      "role": "Actor"
+      "role": "Actor",
+      "number_of_collaborators": 25
     },
     {
       "id": "contributor_466546",
@@ -510,7 +573,8 @@
       "name": "Angelique Cassimatis",
       "nationality": "undefined",
       "gender": "Female",
-      "role": "Actor"
+      "role": "Actor",
+      "number_of_collaborators": 72
     },
     {
       "id": "contributor_483646",
@@ -518,7 +582,8 @@
       "name": "Nick Jones",
       "nationality": "Australian",
       "gender": "Male",
-      "role": "Actor"
+      "role": "Actor",
+      "number_of_collaborators": 25
     },
     {
       "id": "contributor_489656",
@@ -526,7 +591,8 @@
       "name": "Matthew Manahan",
       "nationality": "undefined",
       "gender": "Male",
-      "role": "Actor"
+      "role": "Actor",
+      "number_of_collaborators": 25
     },
     {
       "id": "contributor_497989",
@@ -534,7 +600,8 @@
       "name": "Nick Walker",
       "nationality": "undefined",
       "gender": "Male",
-      "role": "Sound Designer"
+      "role": "Sound Designer",
+      "number_of_collaborators": 25
     },
     {
       "id": "contributor_544739",
@@ -542,7 +609,8 @@
       "name": "Samantha Leith",
       "nationality": "undefined",
       "gender": "Female",
-      "role": "Executive Producer"
+      "role": "Executive Producer",
+      "number_of_collaborators": 25
     },
     {
       "id": "contributor_547955",
@@ -550,7 +618,8 @@
       "name": "Dave Newman",
       "nationality": "undefined",
       "gender": "Male",
-      "role": "Casting Director"
+      "role": "Casting Director",
+      "number_of_collaborators": 25
     },
     {
       "id": "contributor_673",
@@ -558,7 +627,8 @@
       "name": "Susan-Ann Walker",
       "nationality": "Australian",
       "gender": "Female",
-      "role": "Actor"
+      "role": "Actor",
+      "number_of_collaborators": 88
     },
     {
       "id": "contributor_1002",
@@ -566,7 +636,8 @@
       "name": "Nancye Hayes AM",
       "nationality": "Australian",
       "gender": "Female",
-      "role": "Actor"
+      "role": "Actor",
+      "number_of_collaborators": 57
     },
     {
       "id": "contributor_1352",
@@ -574,7 +645,8 @@
       "name": "Shaun Gurton",
       "nationality": "English / Australian",
       "gender": "Male",
-      "role": "Set Designer"
+      "role": "Set Designer",
+      "number_of_collaborators": 57
     },
     {
       "id": "contributor_1581",
@@ -582,7 +654,8 @@
       "name": "Jule Styne",
       "nationality": "American",
       "gender": "Male",
-      "role": "Composer"
+      "role": "Composer",
+      "number_of_collaborators": 57
     },
     {
       "id": "contributor_1952",
@@ -590,7 +663,8 @@
       "name": "David Hobson",
       "nationality": "Australian",
       "gender": "Male",
-      "role": "Actor"
+      "role": "Actor",
+      "number_of_collaborators": 57
     },
     {
       "id": "contributor_2980",
@@ -598,7 +672,8 @@
       "name": "Greg Stone",
       "nationality": "Australian",
       "gender": "Male",
-      "role": "Actor"
+      "role": "Actor",
+      "number_of_collaborators": 57
     },
     {
       "id": "contributor_4666",
@@ -606,7 +681,8 @@
       "name": "Judith Roberts",
       "nationality": "Australian",
       "gender": "Female",
-      "role": "Actor"
+      "role": "Actor",
+      "number_of_collaborators": 57
     },
     {
       "id": "contributor_6884",
@@ -614,7 +690,8 @@
       "name": "Caroline O'Connor AM",
       "nationality": "Australian",
       "gender": "Female",
-      "role": "Actor"
+      "role": "Actor",
+      "number_of_collaborators": 87
     },
     {
       "id": "contributor_9421",
@@ -622,7 +699,8 @@
       "name": "Anthony Gabriele",
       "nationality": "Australian",
       "gender": "Male",
-      "role": "Musical Director"
+      "role": "Musical Director",
+      "number_of_collaborators": 94
     },
     {
       "id": "contributor_203195",
@@ -630,7 +708,8 @@
       "name": "Trudy Dalgleish",
       "nationality": "Australian",
       "gender": "Female",
-      "role": "Lighting Designer"
+      "role": "Lighting Designer",
+      "number_of_collaborators": 57
     },
     {
       "id": "contributor_237180",
@@ -638,7 +717,8 @@
       "name": "Bob Merrill",
       "nationality": "American",
       "gender": "Male",
-      "role": "Lyricist"
+      "role": "Lyricist",
+      "number_of_collaborators": 57
     },
     {
       "id": "contributor_237763",
@@ -646,7 +726,8 @@
       "name": "David Patterson",
       "nationality": "undefined",
       "gender": "Male",
-      "role": "Actor"
+      "role": "Actor",
+      "number_of_collaborators": 57
     },
     {
       "id": "contributor_240555",
@@ -654,7 +735,8 @@
       "name": "Isobel Lennart",
       "nationality": "American",
       "gender": "Female",
-      "role": "Book and Lyrics Librettist"
+      "role": "Book and Lyrics Librettist",
+      "number_of_collaborators": 57
     },
     {
       "id": "contributor_247150",
@@ -662,7 +744,8 @@
       "name": "Frank Samuel van Straten AM",
       "nationality": "undefined",
       "gender": "Male",
-      "role": "Programme Administrator"
+      "role": "Programme Administrator",
+      "number_of_collaborators": 87
     },
     {
       "id": "contributor_247590",
@@ -670,7 +753,8 @@
       "name": "Richard Montgomery",
       "nationality": "undefined",
       "gender": "Male",
-      "role": "Assistant Musical Director"
+      "role": "Assistant Musical Director",
+      "number_of_collaborators": 57
     },
     {
       "id": "contributor_406989",
@@ -678,7 +762,8 @@
       "name": "David Spencer",
       "nationality": "Australian",
       "gender": "Male",
-      "role": "Assistant Director"
+      "role": "Assistant Director",
+      "number_of_collaborators": 57
     },
     {
       "id": "contributor_413402",
@@ -686,7 +771,8 @@
       "name": "Tim Chappel",
       "nationality": "undefined",
       "gender": "Male",
-      "role": "Costume Designer"
+      "role": "Costume Designer",
+      "number_of_collaborators": 57
     },
     {
       "id": "contributor_418058",
@@ -694,7 +780,8 @@
       "name": "Tracie Morley",
       "nationality": "undefined",
       "gender": "Female",
-      "role": "Assistant Choreographer"
+      "role": "Assistant Choreographer",
+      "number_of_collaborators": 57
     },
     {
       "id": "contributor_422671",
@@ -702,7 +789,8 @@
       "name": "Jeffrey Van De Zandt",
       "nationality": "undefined",
       "gender": "Male",
-      "role": "Marketing"
+      "role": "Marketing",
+      "number_of_collaborators": 57
     },
     {
       "id": "contributor_427732",
@@ -710,7 +798,8 @@
       "name": "Sophia Katos",
       "nationality": "undefined",
       "gender": "Female",
-      "role": "Actor"
+      "role": "Actor",
+      "number_of_collaborators": 57
     },
     {
       "id": "contributor_430891",
@@ -718,7 +807,8 @@
       "name": "Nadia Gianinotti",
       "nationality": "undefined",
       "gender": "Female",
-      "role": "Marketing"
+      "role": "Marketing",
+      "number_of_collaborators": 94
     },
     {
       "id": "contributor_436671",
@@ -726,7 +816,8 @@
       "name": "Jeff Busby",
       "nationality": "undefined",
       "gender": "Male",
-      "role": "Photographer"
+      "role": "Photographer",
+      "number_of_collaborators": 57
     },
     {
       "id": "contributor_445220",
@@ -734,7 +825,8 @@
       "name": "Jared Bryan",
       "nationality": "undefined",
       "gender": "Male",
-      "role": "Actor"
+      "role": "Actor",
+      "number_of_collaborators": 94
     },
     {
       "id": "contributor_446545",
@@ -742,7 +834,8 @@
       "name": "Brooke Synnott",
       "nationality": "undefined",
       "gender": "Female",
-      "role": "Actor"
+      "role": "Actor",
+      "number_of_collaborators": 57
     },
     {
       "id": "contributor_450145",
@@ -750,7 +843,8 @@
       "name": "Priscilla Stavrou",
       "nationality": "undefined",
       "gender": "Female",
-      "role": "Actor"
+      "role": "Actor",
+      "number_of_collaborators": 57
     },
     {
       "id": "contributor_452642",
@@ -758,7 +852,8 @@
       "name": "Sage Douglas",
       "nationality": "undefined",
       "gender": "Female",
-      "role": "Actor"
+      "role": "Actor",
+      "number_of_collaborators": 94
     },
     {
       "id": "contributor_461308",
@@ -766,7 +861,8 @@
       "name": "Luke Alleva ",
       "nationality": "Australian",
       "gender": "Male",
-      "role": "Actor"
+      "role": "Actor",
+      "number_of_collaborators": 88
     },
     {
       "id": "contributor_461314",
@@ -774,7 +870,8 @@
       "name": "Amy Berrisford ",
       "nationality": "undefined",
       "gender": "Female",
-      "role": "Actor"
+      "role": "Actor",
+      "number_of_collaborators": 57
     },
     {
       "id": "contributor_461503",
@@ -782,7 +879,8 @@
       "name": "Jan Russ ",
       "nationality": "undefined",
       "gender": "Female",
-      "role": "Actor"
+      "role": "Actor",
+      "number_of_collaborators": 57
     },
     {
       "id": "contributor_463345",
@@ -790,7 +888,8 @@
       "name": "Ashleigh Hauschild",
       "nationality": "undefined",
       "gender": "Female",
-      "role": "Actor"
+      "role": "Actor",
+      "number_of_collaborators": 57
     },
     {
       "id": "contributor_467367",
@@ -798,7 +897,8 @@
       "name": "Daniel Assetta",
       "nationality": "undefined",
       "gender": "Male",
-      "role": "Actor"
+      "role": "Actor",
+      "number_of_collaborators": 57
     },
     {
       "id": "contributor_467368",
@@ -806,7 +906,8 @@
       "name": "Danielle Evrat",
       "nationality": "undefined",
       "gender": "Female",
-      "role": "Actor"
+      "role": "Actor",
+      "number_of_collaborators": 57
     },
     {
       "id": "contributor_467589",
@@ -814,7 +915,8 @@
       "name": "David Tonion",
       "nationality": "Australian",
       "gender": "Male",
-      "role": "Sound Designer"
+      "role": "Sound Designer",
+      "number_of_collaborators": 94
     },
     {
       "id": "contributor_480743",
@@ -822,7 +924,8 @@
       "name": "Blake Appelqvist",
       "nationality": "undefined",
       "gender": "Male",
-      "role": "Actor"
+      "role": "Actor",
+      "number_of_collaborators": 57
     },
     {
       "id": "contributor_480873",
@@ -830,7 +933,8 @@
       "name": "Kiara Kieser",
       "nationality": "undefined",
       "gender": "Female",
-      "role": "Actor"
+      "role": "Actor",
+      "number_of_collaborators": 57
     },
     {
       "id": "contributor_485260",
@@ -838,7 +942,8 @@
       "name": "Adam Noviello",
       "nationality": "undefined",
       "gender": "Male",
-      "role": "Actor"
+      "role": "Actor",
+      "number_of_collaborators": 57
     },
     {
       "id": "contributor_485267",
@@ -846,7 +951,8 @@
       "name": "Jessica Kane",
       "nationality": "undefined",
       "gender": "Female",
-      "role": "Actor"
+      "role": "Actor",
+      "number_of_collaborators": 57
     },
     {
       "id": "contributor_488928",
@@ -854,7 +960,8 @@
       "name": "Suzanne Steele",
       "nationality": "undefined",
       "gender": "Female",
-      "role": "Actor"
+      "role": "Actor",
+      "number_of_collaborators": 94
     },
     {
       "id": "contributor_509839",
@@ -862,7 +969,8 @@
       "name": "Joseph Noonan",
       "nationality": "undefined",
       "gender": "Male",
-      "role": "Secondment"
+      "role": "Secondment",
+      "number_of_collaborators": 57
     },
     {
       "id": "contributor_514429",
@@ -870,7 +978,8 @@
       "name": "Jack Earle",
       "nationality": "undefined",
       "gender": "Male",
-      "role": "Unknown"
+      "role": "Unknown",
+      "number_of_collaborators": 57
     },
     {
       "id": "contributor_535615",
@@ -878,7 +987,8 @@
       "name": "Max Patterson",
       "nationality": "undefined",
       "gender": "Male",
-      "role": "Actor"
+      "role": "Actor",
+      "number_of_collaborators": 57
     },
     {
       "id": "contributor_536383",
@@ -886,7 +996,8 @@
       "name": "Colin Page",
       "nationality": "undefined",
       "gender": "Male",
-      "role": "Photographer"
+      "role": "Photographer",
+      "number_of_collaborators": 57
     },
     {
       "id": "contributor_537685",
@@ -894,7 +1005,8 @@
       "name": "John Reed",
       "nationality": "undefined",
       "gender": "Male",
-      "role": "Actor"
+      "role": "Actor",
+      "number_of_collaborators": 94
     },
     {
       "id": "contributor_537687",
@@ -902,7 +1014,8 @@
       "name": "Cassie O'Brien",
       "nationality": "undefined",
       "gender": "Female",
-      "role": "Actor"
+      "role": "Actor",
+      "number_of_collaborators": 57
     },
     {
       "id": "contributor_543920",
@@ -910,7 +1023,8 @@
       "name": "Laura Inglesi",
       "nationality": "undefined",
       "gender": "Female",
-      "role": "Actor"
+      "role": "Actor",
+      "number_of_collaborators": 57
     },
     {
       "id": "contributor_543921",
@@ -918,7 +1032,8 @@
       "name": "Callum Sandercock",
       "nationality": "undefined",
       "gender": "Male",
-      "role": "Actor"
+      "role": "Actor",
+      "number_of_collaborators": 57
     },
     {
       "id": "contributor_547838",
@@ -926,7 +1041,8 @@
       "name": "Julie Cavanagh",
       "nationality": "undefined",
       "gender": "Female",
-      "role": "Publicist"
+      "role": "Publicist",
+      "number_of_collaborators": 94
     },
     {
       "id": "contributor_548400",
@@ -934,7 +1050,8 @@
       "name": "Simone Goodwin",
       "nationality": "undefined",
       "gender": "Female",
-      "role": "Administrator"
+      "role": "Administrator",
+      "number_of_collaborators": 94
     },
     {
       "id": "contributor_548401",
@@ -942,7 +1059,8 @@
       "name": "Kendra Reid",
       "nationality": "undefined",
       "gender": "Female",
-      "role": "Marketing"
+      "role": "Marketing",
+      "number_of_collaborators": 94
     },
     {
       "id": "contributor_548402",
@@ -950,7 +1068,8 @@
       "name": "James Robertson",
       "nationality": "undefined",
       "gender": "Male",
-      "role": "Marketing"
+      "role": "Marketing",
+      "number_of_collaborators": 94
     },
     {
       "id": "contributor_548932",
@@ -958,7 +1077,8 @@
       "name": "Vas Katos",
       "nationality": "undefined",
       "gender": "Unknown",
-      "role": "Marketing"
+      "role": "Marketing",
+      "number_of_collaborators": 94
     },
     {
       "id": "contributor_548933",
@@ -966,7 +1086,8 @@
       "name": "Ruth Blair",
       "nationality": "undefined",
       "gender": "Female",
-      "role": "Secondment"
+      "role": "Secondment",
+      "number_of_collaborators": 57
     },
     {
       "id": "contributor_548934",
@@ -974,7 +1095,8 @@
       "name": "Jake Jobling",
       "nationality": "undefined",
       "gender": "Male",
-      "role": "Secondment"
+      "role": "Secondment",
+      "number_of_collaborators": 57
     },
     {
       "id": "contributor_548935",
@@ -982,7 +1104,8 @@
       "name": "Chontal Hickey",
       "nationality": "undefined",
       "gender": "Female",
-      "role": "Secondment"
+      "role": "Secondment",
+      "number_of_collaborators": 57
     },
     {
       "id": "contributor_1580",
@@ -990,7 +1113,8 @@
       "name": "Tim Rice",
       "nationality": "English",
       "gender": "Male",
-      "role": "Lyricist"
+      "role": "Lyricist",
+      "number_of_collaborators": 51
     },
     {
       "id": "contributor_2897",
@@ -998,7 +1122,8 @@
       "name": "Dan Potra",
       "nationality": "Australian",
       "gender": "Male",
-      "role": "Set Designer"
+      "role": "Set Designer",
+      "number_of_collaborators": 51
     },
     {
       "id": "contributor_6427",
@@ -1006,7 +1131,8 @@
       "name": "Trevor Ashley",
       "nationality": "Australian",
       "gender": "Male",
-      "role": "Actor"
+      "role": "Actor",
+      "number_of_collaborators": 51
     },
     {
       "id": "contributor_231104",
@@ -1014,7 +1140,8 @@
       "name": "Andrew Lloyd Webber",
       "nationality": "English",
       "gender": "Male",
-      "role": "Composer"
+      "role": "Composer",
+      "number_of_collaborators": 51
     },
     {
       "id": "contributor_407542",
@@ -1022,7 +1149,8 @@
       "name": "Rob Mills",
       "nationality": "undefined",
       "gender": "Male",
-      "role": "Actor"
+      "role": "Actor",
+      "number_of_collaborators": 51
     },
     {
       "id": "contributor_416471",
@@ -1030,7 +1158,8 @@
       "name": "Glenn Hill",
       "nationality": "Australian",
       "gender": "Male",
-      "role": "Actor"
+      "role": "Actor",
+      "number_of_collaborators": 51
     },
     {
       "id": "contributor_418052",
@@ -1038,7 +1167,8 @@
       "name": "Josie Lane",
       "nationality": "undefined",
       "gender": "Female",
-      "role": "Actor"
+      "role": "Actor",
+      "number_of_collaborators": 51
     },
     {
       "id": "contributor_420348",
@@ -1046,7 +1176,8 @@
       "name": "Kim Bishop",
       "nationality": "Australian",
       "gender": "Male",
-      "role": "Costume Designer"
+      "role": "Costume Designer",
+      "number_of_collaborators": 51
     },
     {
       "id": "contributor_420373",
@@ -1054,7 +1185,8 @@
       "name": "Trent Suidgeest",
       "nationality": "undefined",
       "gender": "Male",
-      "role": "Lighting Designer"
+      "role": "Lighting Designer",
+      "number_of_collaborators": 51
     },
     {
       "id": "contributor_422261",
@@ -1062,7 +1194,8 @@
       "name": "Nelson Gardner",
       "nationality": "Australian",
       "gender": "Male",
-      "role": "Actor"
+      "role": "Actor",
+      "number_of_collaborators": 51
     },
     {
       "id": "contributor_426866",
@@ -1070,7 +1203,8 @@
       "name": "Louis Lucente",
       "nationality": "undefined",
       "gender": "Male",
-      "role": "Actor"
+      "role": "Actor",
+      "number_of_collaborators": 51
     },
     {
       "id": "contributor_427333",
@@ -1078,7 +1212,8 @@
       "name": "Paul Hughes",
       "nationality": "undefined",
       "gender": "Male",
-      "role": "Actor"
+      "role": "Actor",
+      "number_of_collaborators": 51
     },
     {
       "id": "contributor_427728",
@@ -1086,7 +1221,8 @@
       "name": "Andrew Cook",
       "nationality": "undefined",
       "gender": "Male",
-      "role": "Actor"
+      "role": "Actor",
+      "number_of_collaborators": 51
     },
     {
       "id": "contributor_431994",
@@ -1094,7 +1230,8 @@
       "name": "Stephen McDowell",
       "nationality": "undefined",
       "gender": "Male",
-      "role": "Actor"
+      "role": "Actor",
+      "number_of_collaborators": 51
     },
     {
       "id": "contributor_432143",
@@ -1102,7 +1239,8 @@
       "name": "Mel Robertson",
       "nationality": "undefined",
       "gender": "Female",
-      "role": "Production Manager"
+      "role": "Production Manager",
+      "number_of_collaborators": 51
     },
     {
       "id": "contributor_450175",
@@ -1110,7 +1248,8 @@
       "name": "Scott McConnell",
       "nationality": "undefined",
       "gender": "Male",
-      "role": "Actor"
+      "role": "Actor",
+      "number_of_collaborators": 51
     },
     {
       "id": "contributor_460941",
@@ -1118,7 +1257,8 @@
       "name": "Alinta Chidzey",
       "nationality": "undefined",
       "gender": "Female",
-      "role": "Actor"
+      "role": "Actor",
+      "number_of_collaborators": 51
     },
     {
       "id": "contributor_461316",
@@ -1126,7 +1266,8 @@
       "name": "Emma Clark ",
       "nationality": "undefined",
       "gender": "Female",
-      "role": "Actor"
+      "role": "Actor",
+      "number_of_collaborators": 51
     },
     {
       "id": "contributor_462658",
@@ -1134,7 +1275,8 @@
       "name": "Mike Snell ",
       "nationality": "undefined",
       "gender": "Male",
-      "role": "Actor"
+      "role": "Actor",
+      "number_of_collaborators": 51
     },
     {
       "id": "contributor_463310",
@@ -1142,7 +1284,8 @@
       "name": "Zoy Frangos",
       "nationality": "undefined",
       "gender": "Male",
-      "role": "Actor"
+      "role": "Actor",
+      "number_of_collaborators": 51
     },
     {
       "id": "contributor_463346",
@@ -1150,7 +1293,8 @@
       "name": "Andrew Kroenert",
       "nationality": "undefined",
       "gender": "Male",
-      "role": "Actor"
+      "role": "Actor",
+      "number_of_collaborators": 51
     },
     {
       "id": "contributor_467373",
@@ -1158,7 +1302,8 @@
       "name": "Pharic Scott",
       "nationality": "English",
       "gender": "Male",
-      "role": "Actor"
+      "role": "Actor",
+      "number_of_collaborators": 51
     },
     {
       "id": "contributor_467579",
@@ -1166,7 +1311,8 @@
       "name": "Zoe Coppinger",
       "nationality": "undefined",
       "gender": "Female",
-      "role": "Actor"
+      "role": "Actor",
+      "number_of_collaborators": 51
     },
     {
       "id": "contributor_480808",
@@ -1174,7 +1320,8 @@
       "name": "Rachael Ward",
       "nationality": "undefined",
       "gender": "Female",
-      "role": "Actor"
+      "role": "Actor",
+      "number_of_collaborators": 51
     },
     {
       "id": "contributor_502318",
@@ -1182,7 +1329,8 @@
       "name": "Embla Bishop",
       "nationality": "undefined",
       "gender": "Female",
-      "role": "Actor"
+      "role": "Actor",
+      "number_of_collaborators": 51
     },
     {
       "id": "contributor_508557",
@@ -1190,7 +1338,8 @@
       "name": "Luke Jarvis",
       "nationality": "undefined",
       "gender": "Male",
-      "role": "Actor"
+      "role": "Actor",
+      "number_of_collaborators": 51
     },
     {
       "id": "contributor_534626",
@@ -1198,7 +1347,8 @@
       "name": "Sam Ward",
       "nationality": "undefined",
       "gender": "Male",
-      "role": "Actor"
+      "role": "Actor",
+      "number_of_collaborators": 51
     },
     {
       "id": "contributor_541484",
@@ -1206,7 +1356,8 @@
       "name": "Alex Hyne",
       "nationality": "undefined",
       "gender": "Male",
-      "role": "Chorus"
+      "role": "Chorus",
+      "number_of_collaborators": 51
     },
     {
       "id": "contributor_547913",
@@ -1214,7 +1365,8 @@
       "name": "Min McCallum",
       "nationality": "undefined",
       "gender": "Female",
-      "role": "Associate Producer"
+      "role": "Associate Producer",
+      "number_of_collaborators": 51
     },
     {
       "id": "contributor_549131",
@@ -1222,7 +1374,8 @@
       "name": "Laura Arcudi",
       "nationality": "undefined",
       "gender": "Female",
-      "role": "Marketing"
+      "role": "Marketing",
+      "number_of_collaborators": 51
     },
     {
       "id": "contributor_549135",
@@ -1230,7 +1383,8 @@
       "name": "Megan Ellis",
       "nationality": "undefined",
       "gender": "Female",
-      "role": "Marketing"
+      "role": "Marketing",
+      "number_of_collaborators": 51
     },
     {
       "id": "contributor_549171",
@@ -1238,7 +1392,8 @@
       "name": "Ebony Wood",
       "nationality": "undefined",
       "gender": "Female",
-      "role": "Marketing"
+      "role": "Marketing",
+      "number_of_collaborators": 51
     },
     {
       "id": "contributor_3891",
@@ -1246,7 +1401,8 @@
       "name": "John McTernan",
       "nationality": "Australian",
       "gender": "Male",
-      "role": "Actor"
+      "role": "Actor",
+      "number_of_collaborators": 33
     },
     {
       "id": "contributor_9511",
@@ -1254,7 +1410,8 @@
       "name": "Mark Pennell",
       "nationality": "Australian",
       "gender": "Male",
-      "role": "Producer"
+      "role": "Producer",
+      "number_of_collaborators": 33
     },
     {
       "id": "contributor_203133",
@@ -1262,7 +1419,8 @@
       "name": "Damien Bermingham",
       "nationality": "Australian",
       "gender": "Male",
-      "role": "Actor"
+      "role": "Actor",
+      "number_of_collaborators": 33
     },
     {
       "id": "contributor_232275",
@@ -1270,7 +1428,8 @@
       "name": "Melissa Agnew",
       "nationality": "Australian",
       "gender": "Female",
-      "role": "Dialect Coach"
+      "role": "Dialect Coach",
+      "number_of_collaborators": 33
     },
     {
       "id": "contributor_242446",
@@ -1278,7 +1437,8 @@
       "name": "Russell Goldsmith",
       "nationality": "Australian",
       "gender": "Male",
-      "role": "Sound Designer"
+      "role": "Sound Designer",
+      "number_of_collaborators": 33
     },
     {
       "id": "contributor_242757",
@@ -1286,7 +1446,8 @@
       "name": "Jamie Henson",
       "nationality": "undefined",
       "gender": "Male",
-      "role": "undefined"
+      "role": "undefined",
+      "number_of_collaborators": 33
     },
     {
       "id": "contributor_242887",
@@ -1294,7 +1455,8 @@
       "name": "Mary Benn",
       "nationality": "undefined",
       "gender": "Female",
-      "role": "Stage Manager"
+      "role": "Stage Manager",
+      "number_of_collaborators": 33
     },
     {
       "id": "contributor_246903",
@@ -1302,7 +1464,8 @@
       "name": "Amy Campbell",
       "nationality": "undefined",
       "gender": "Female",
-      "role": "Actor"
+      "role": "Actor",
+      "number_of_collaborators": 33
     },
     {
       "id": "contributor_408288",
@@ -1310,7 +1473,8 @@
       "name": "Frank Harlow",
       "nationality": "undefined",
       "gender": "Male",
-      "role": "Production Coordinator"
+      "role": "Production Coordinator",
+      "number_of_collaborators": 33
     },
     {
       "id": "contributor_417159",
@@ -1318,7 +1482,8 @@
       "name": "Christie Whelan-Browne",
       "nationality": "undefined",
       "gender": "Female",
-      "role": "Actor"
+      "role": "Actor",
+      "number_of_collaborators": 33
     },
     {
       "id": "contributor_428419",
@@ -1326,7 +1491,8 @@
       "name": "Steve Danielsen",
       "nationality": "undefined",
       "gender": "Male",
-      "role": "Actor"
+      "role": "Actor",
+      "number_of_collaborators": 33
     },
     {
       "id": "contributor_434819",
@@ -1334,7 +1500,8 @@
       "name": "Derek Latham",
       "nationality": "undefined",
       "gender": "Male",
-      "role": "Company Manager"
+      "role": "Company Manager",
+      "number_of_collaborators": 33
     },
     {
       "id": "contributor_440512",
@@ -1342,7 +1509,8 @@
       "name": "Sam Ludeman",
       "nationality": "undefined",
       "gender": "Male",
-      "role": "Actor"
+      "role": "Actor",
+      "number_of_collaborators": 33
     },
     {
       "id": "contributor_441544",
@@ -1350,7 +1518,8 @@
       "name": "Daniel Harvey",
       "nationality": "undefined",
       "gender": "Male",
-      "role": "Costume Designer"
+      "role": "Costume Designer",
+      "number_of_collaborators": 33
     },
     {
       "id": "contributor_450138",
@@ -1358,7 +1527,8 @@
       "name": "Josh Feldschuh",
       "nationality": "undefined",
       "gender": "Male",
-      "role": "Actor"
+      "role": "Actor",
+      "number_of_collaborators": 33
     },
     {
       "id": "contributor_453065",
@@ -1366,7 +1536,8 @@
       "name": "Zoe Rouse",
       "nationality": "undefined",
       "gender": "Female",
-      "role": "Costume Designer"
+      "role": "Costume Designer",
+      "number_of_collaborators": 33
     },
     {
       "id": "contributor_466550",
@@ -1374,7 +1545,8 @@
       "name": "Duane McGregor",
       "nationality": "undefined",
       "gender": "Male",
-      "role": "Actor"
+      "role": "Actor",
+      "number_of_collaborators": 33
     },
     {
       "id": "contributor_527122",
@@ -1382,7 +1554,8 @@
       "name": "Elizabeth Rogers",
       "nationality": "undefined",
       "gender": "Female",
-      "role": "Deputy Stage Manager"
+      "role": "Deputy Stage Manager",
+      "number_of_collaborators": 33
     },
     {
       "id": "contributor_541195",
@@ -1390,7 +1563,8 @@
       "name": "Erin Kennedy",
       "nationality": "undefined",
       "gender": "Female",
-      "role": "Actor"
+      "role": "Actor",
+      "number_of_collaborators": 33
     },
     {
       "id": "contributor_541453",
@@ -1398,7 +1572,8 @@
       "name": "Drew Kenneady",
       "nationality": "undefined",
       "gender": "Male",
-      "role": "Wig Stylist"
+      "role": "Wig Stylist",
+      "number_of_collaborators": 33
     },
     {
       "id": "contributor_541465",
@@ -1406,7 +1581,8 @@
       "name": "Anthony Ludwig",
       "nationality": "undefined",
       "gender": "Male",
-      "role": "Head Mechanist"
+      "role": "Head Mechanist",
+      "number_of_collaborators": 33
     },
     {
       "id": "contributor_541817",
@@ -1414,7 +1590,8 @@
       "name": "Christopher Ashley",
       "nationality": "undefined",
       "gender": "Male",
-      "role": "Director"
+      "role": "Director",
+      "number_of_collaborators": 33
     },
     {
       "id": "contributor_545027",
@@ -1422,7 +1599,8 @@
       "name": "Phillip Corr",
       "nationality": "undefined",
       "gender": "Male",
-      "role": "Executive Producer"
+      "role": "Executive Producer",
+      "number_of_collaborators": 33
     },
     {
       "id": "contributor_545028",
@@ -1430,7 +1608,8 @@
       "name": "Geoff 'Mungo' Richardson",
       "nationality": "undefined",
       "gender": "Male",
-      "role": "Production Designer"
+      "role": "Production Designer",
+      "number_of_collaborators": 33
     },
     {
       "id": "contributor_545029",
@@ -1438,7 +1617,8 @@
       "name": "Marianne Jade",
       "nationality": "undefined",
       "gender": "Female",
-      "role": "Casting Director"
+      "role": "Casting Director",
+      "number_of_collaborators": 33
     },
     {
       "id": "contributor_545030",
@@ -1446,7 +1626,8 @@
       "name": "Lou Mitchell",
       "nationality": "undefined",
       "gender": "Female",
-      "role": "Casting Director"
+      "role": "Casting Director",
+      "number_of_collaborators": 33
     },
     {
       "id": "contributor_545031",
@@ -1454,7 +1635,8 @@
       "name": "Emily Greenaway",
       "nationality": "undefined",
       "gender": "Female",
-      "role": "Actor"
+      "role": "Actor",
+      "number_of_collaborators": 33
     },
     {
       "id": "contributor_550399",
@@ -1462,7 +1644,8 @@
       "name": "Harry Harriman",
       "nationality": "undefined",
       "gender": "Male",
-      "role": "Head Electrician"
+      "role": "Head Electrician",
+      "number_of_collaborators": 33
     },
     {
       "id": "contributor_62",
@@ -1470,7 +1653,8 @@
       "name": "Richard Bruce Wherrett AM",
       "nationality": "Australian",
       "gender": "Male",
-      "role": "Director"
+      "role": "Director",
+      "number_of_collaborators": 32
     },
     {
       "id": "contributor_622",
@@ -1478,7 +1662,8 @@
       "name": "Tony Sheldon",
       "nationality": "Australian",
       "gender": "Male",
-      "role": "Artistic Performer"
+      "role": "Artistic Performer",
+      "number_of_collaborators": 32
     },
     {
       "id": "contributor_713",
@@ -1486,7 +1671,8 @@
       "name": "Marina Prior",
       "nationality": "Australian",
       "gender": "Female",
-      "role": "Actor"
+      "role": "Actor",
+      "number_of_collaborators": 32
     },
     {
       "id": "contributor_1746",
@@ -1494,7 +1680,8 @@
       "name": "Jacki Weaver",
       "nationality": "Australian",
       "gender": "Female",
-      "role": "MC"
+      "role": "MC",
+      "number_of_collaborators": 32
     },
     {
       "id": "contributor_1775",
@@ -1502,7 +1689,8 @@
       "name": "John Waters",
       "nationality": "Australian",
       "gender": "Male",
-      "role": "MC"
+      "role": "MC",
+      "number_of_collaborators": 32
     },
     {
       "id": "contributor_2050",
@@ -1510,7 +1698,8 @@
       "name": "David Pledger",
       "nationality": "Australian",
       "gender": "Male",
-      "role": "Artistic Supervisor"
+      "role": "Artistic Supervisor",
+      "number_of_collaborators": 32
     },
     {
       "id": "contributor_2326",
@@ -1518,7 +1707,8 @@
       "name": "Geraldine Turner OAM",
       "nationality": "Australian",
       "gender": "Female",
-      "role": "Actor"
+      "role": "Actor",
+      "number_of_collaborators": 32
     },
     {
       "id": "contributor_3060",
@@ -1526,7 +1716,8 @@
       "name": "Gerry Connolly",
       "nationality": "Australian",
       "gender": "Male",
-      "role": "Artistic Performer"
+      "role": "Artistic Performer",
+      "number_of_collaborators": 32
     },
     {
       "id": "contributor_3515",
@@ -1534,7 +1725,8 @@
       "name": "Hugh Colman",
       "nationality": "Australian",
       "gender": "Male",
-      "role": "Designer"
+      "role": "Designer",
+      "number_of_collaborators": 32
     },
     {
       "id": "contributor_3711",
@@ -1542,7 +1734,8 @@
       "name": "Rhonda Burchmore",
       "nationality": "Australian",
       "gender": "Female",
-      "role": "Actor"
+      "role": "Actor",
+      "number_of_collaborators": 32
     },
     {
       "id": "contributor_4069",
@@ -1550,7 +1743,8 @@
       "name": "Todd McKenney",
       "nationality": "Australian",
       "gender": "Male",
-      "role": "Actor"
+      "role": "Actor",
+      "number_of_collaborators": 32
     },
     {
       "id": "contributor_4070",
@@ -1558,7 +1752,8 @@
       "name": "Toni Lamond",
       "nationality": "Australian",
       "gender": "Female",
-      "role": "Artistic Performer"
+      "role": "Artistic Performer",
+      "number_of_collaborators": 32
     },
     {
       "id": "contributor_4300",
@@ -1566,7 +1761,8 @@
       "name": "David Ravenswood",
       "nationality": "Australian",
       "gender": "Male",
-      "role": "Announcer"
+      "role": "Announcer",
+      "number_of_collaborators": 32
     },
     {
       "id": "contributor_5064",
@@ -1574,7 +1770,8 @@
       "name": "Peter Ernest Lowrey OAM",
       "nationality": "Australian",
       "gender": "Male",
-      "role": "Actor"
+      "role": "Actor",
+      "number_of_collaborators": 32
     },
     {
       "id": "contributor_6735",
@@ -1582,7 +1779,8 @@
       "name": "Dale Ferguson",
       "nationality": "Australian",
       "gender": "Male",
-      "role": "Designer"
+      "role": "Designer",
+      "number_of_collaborators": 32
     },
     {
       "id": "contributor_9018",
@@ -1590,7 +1788,8 @@
       "name": "Debra Byrne",
       "nationality": "Australian",
       "gender": "Female",
-      "role": "Actor"
+      "role": "Actor",
+      "number_of_collaborators": 32
     },
     {
       "id": "contributor_9116",
@@ -1598,7 +1797,8 @@
       "name": "Derek Metzger",
       "nationality": "New Zealander",
       "gender": "Male",
-      "role": "Actor"
+      "role": "Actor",
+      "number_of_collaborators": 32
     },
     {
       "id": "contributor_10141",
@@ -1606,7 +1806,8 @@
       "name": "Jamieson Lewis",
       "nationality": "Australian",
       "gender": "Male",
-      "role": "Lighting Designer"
+      "role": "Lighting Designer",
+      "number_of_collaborators": 32
     },
     {
       "id": "contributor_203504",
@@ -1614,7 +1815,8 @@
       "name": "Donald Cant",
       "nationality": "Australian",
       "gender": "Male",
-      "role": "Actor"
+      "role": "Actor",
+      "number_of_collaborators": 32
     },
     {
       "id": "contributor_227730",
@@ -1622,7 +1824,8 @@
       "name": "Kate Ceberano",
       "nationality": "Australian",
       "gender": "Female",
-      "role": "Actor"
+      "role": "Actor",
+      "number_of_collaborators": 32
     },
     {
       "id": "contributor_240513",
@@ -1630,7 +1833,8 @@
       "name": "John Scandrett",
       "nationality": "Australian",
       "gender": "Male",
-      "role": "Sound Designer"
+      "role": "Sound Designer",
+      "number_of_collaborators": 32
     },
     {
       "id": "contributor_247230",
@@ -1638,7 +1842,8 @@
       "name": "Joanna Sapir",
       "nationality": "Australian",
       "gender": "Female",
-      "role": "Stage Manager"
+      "role": "Stage Manager",
+      "number_of_collaborators": 32
     },
     {
       "id": "contributor_249038",
@@ -1646,7 +1851,8 @@
       "name": "Malcolm White",
       "nationality": "undefined",
       "gender": "Male",
-      "role": "Production Manager"
+      "role": "Production Manager",
+      "number_of_collaborators": 32
     },
     {
       "id": "contributor_257078",
@@ -1654,7 +1860,8 @@
       "name": "Tom Blair",
       "nationality": "Australian",
       "gender": "Male",
-      "role": "Actor"
+      "role": "Actor",
+      "number_of_collaborators": 32
     },
     {
       "id": "contributor_261233",
@@ -1662,7 +1869,8 @@
       "name": "Dan Tullis",
       "nationality": "undefined",
       "gender": "Unknown",
-      "role": "Actor"
+      "role": "Actor",
+      "number_of_collaborators": 32
     },
     {
       "id": "contributor_463652",
@@ -1670,7 +1878,8 @@
       "name": "Julie McKenna",
       "nationality": "undefined",
       "gender": "Female",
-      "role": "Actor"
+      "role": "Actor",
+      "number_of_collaborators": 32
     },
     {
       "id": "contributor_475280",
@@ -1678,7 +1887,8 @@
       "name": "Neil Vinson",
       "nationality": "undefined",
       "gender": "Male",
-      "role": "Actor"
+      "role": "Actor",
+      "number_of_collaborators": 32
     },
     {
       "id": "contributor_564388",
@@ -1686,7 +1896,8 @@
       "name": "Mr Tony Di Dio",
       "nationality": "undefined",
       "gender": "Male",
-      "role": "Choreographer"
+      "role": "Choreographer",
+      "number_of_collaborators": 32
     },
     {
       "id": "contributor_564389",
@@ -1694,7 +1905,8 @@
       "name": "Mr Ernie Sigley",
       "nationality": "undefined",
       "gender": "Male",
-      "role": "Artistic Performer"
+      "role": "Artistic Performer",
+      "number_of_collaborators": 32
     },
     {
       "id": "contributor_176",
@@ -1702,7 +1914,8 @@
       "name": "Neil Simon",
       "nationality": "American",
       "gender": "Male",
-      "role": "Writer"
+      "role": "Writer",
+      "number_of_collaborators": 4
     },
     {
       "id": "contributor_5144",
@@ -1710,7 +1923,8 @@
       "name": "Cy Coleman",
       "nationality": "American",
       "gender": "Male",
-      "role": "Composer"
+      "role": "Composer",
+      "number_of_collaborators": 4
     },
     {
       "id": "contributor_9343",
@@ -1718,7 +1932,8 @@
       "name": "Dorothy Fields",
       "nationality": "American",
       "gender": "Female",
-      "role": "Lyricist"
+      "role": "Lyricist",
+      "number_of_collaborators": 4
     }
   ],
   "edges": [
